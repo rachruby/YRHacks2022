@@ -1,4 +1,4 @@
-#YRHacks2022
+# YRHacks2022
 Bubbl.it! - Your Inner Boba
 
 _Your Inner Boba_ is a personality quiz that chooses a bubble tea drink that most resembles the user. Created and designed using HTML, CSS, and Javascript. 
